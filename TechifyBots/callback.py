@@ -26,8 +26,8 @@ async def callback_query_handler(client, query: CallbackQuery):
                 text.HELP.format(query.from_user.mention),
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup([
-                    [InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://telegram.me/Techifybots'),
-                     InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ', url='https://telegram.me/TechifySupport')],
+                    [InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/updatesxIvan'),
+                     InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ', url='https://t.me/DEVELOPEDBYIVAN')],
                     [InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="start"),
                      InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data="close")]
                 ])
@@ -38,8 +38,8 @@ async def callback_query_handler(client, query: CallbackQuery):
                 text.ABOUT,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup([
-                    [InlineKeyboardButton('💥 ʀᴇᴘᴏ', url='https://github.com/TechifyBots/String-Session-Bot'),
-                     InlineKeyboardButton('👨‍💻 ᴏᴡɴᴇʀ', user_id=int(ADMIN))],
+                    [InlineKeyboardButton('💥 ʀᴇᴘᴏ', url=𝗔𝗨𝗞𝗔𝗧 𝗛𝗔𝗜 𝗟𝗔𝗩𝗗𝗘 𝗕𝗢𝗧 𝗕𝗔𝗡𝗔𝗬𝗘𝗚𝗘 𝗖𝗛𝗢𝗥𝗜 𝗞𝗥𝗞𝗘 𝗕𝗖 🤡'),
+                     InlineKeyboardButton('👨‍💻 ᴏᴡɴᴇʀ', user_id=int(8195241636))],
                     [InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="start"),
                      InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data="close")]
                 ])
