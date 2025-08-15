@@ -30,7 +30,6 @@
           "LOG_GROUP_ID": {
             "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
             "value": "-1002750713715"
- "
+ 
         }
     }
-}
