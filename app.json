@@ -1,0 +1,44 @@
+    "name": "IVAN SESSION STRING",
+    "description": "A bot CAN DO ANYTHING Deployable on heroku made by SHIVANSH39",
+    "logo": "https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg",
+    "keywords": [
+        "TELETHON",
+        "Ivan op",
+        "Telegram Bot",
+        "piro bolte",
+        "IVANxBOT"
+    ],
+    "website": "",
+    "success_url": "https://telegram.dog/SHIVANSH39",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": "462de3dfc98fd938ef9c6ee31a72d099"
+        },
+        "SUDOERS": {
+            "description": "PEOPLE WHO YOU WANT TO ADD ACCESS TO YOUR BOT",
+            "value": "6762113050 6919199044"
+        },
+        "API_ID": {
+            "description": "Your API ID from my.telegram.org",
+            "value": "29308061"
+        },
+         "MONGO_URL": {
+            "description": "MONGO DB URL ",
+            "value": "mongodb+srv://ahad0181888:ahad0181888@cluster0.f9casz0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+         },
+          "LOG_GROUP_ID": {
+            "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
+            "value": "-1002750713715"
+          },
+
+          "MUST_JOIN": {
+            "description": "FORCE SUBSCRIBE BOT EX - Botsxupdate",
+            "value": "Botsxupdate"
+        }
+    }
+}
